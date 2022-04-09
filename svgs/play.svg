@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="36" height="36" viewBox="0 0 36 36">
+  <g id="play" transform="translate(-0.094)">
+    <circle id="Ellipse_7" data-name="Ellipse 7" cx="18" cy="18" r="18" transform="translate(0.094)" fill="#19324d"/>
+    <g id="play-btn" transform="translate(11.944 7.679)">
+      <path id="Path_534" data-name="Path 534" d="M129.03,97.861l13.508,8.441-13.508,8.441V97.861M128,96v20.6l16.483-10.3L128,96Z" transform="translate(-128 -96)" fill="#fff" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+    </g>
+  </g>
+</svg>
